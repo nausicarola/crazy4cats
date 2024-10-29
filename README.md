@@ -1,24 +1,25 @@
-# README
+Desafío - Relaciones N a N en los modelos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+modulo 6
 
-Things you may want to cover:
+alumna: Carola Pulgar
 
-* Ruby version
 
-* System dependencies
+Requerimientos
+1. Set-up inicial del proyecto con sus relaciones y modelos. 
+2. La aplicación debe tener todas sus vistas bien estilizadas y con diseño agradable.
+3. Implementar reacciones de un usuario a las publicaciones.
+4. Implementar comentarios para las publicaciones. 
 
-* Configuration
+Gemas Ocupadas
 
-* Database creation
+gem "devise"
+gem "faker"
 
-* Database initialization
+Usuarios 
 
-* How to run the test suite
+carola@gmail.com 
+clave 123456
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+vicente@gmail.com
+clave 123456
