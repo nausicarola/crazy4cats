@@ -1,0 +1,16 @@
+body {
+    background-color: darksalmon;
+    background-image: url('/assets/gatos.jpg'); 
+    background-size: contain; 
+    color: blue;
+   
+}
+
+.nav-link {
+    color: blue;
+    font-size: large;
+
+}
+.navbar-brand {
+    font-size: xx-large;
+}
